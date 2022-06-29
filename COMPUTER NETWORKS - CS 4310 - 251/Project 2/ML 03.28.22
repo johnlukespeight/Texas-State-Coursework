@@ -1,0 +1,15 @@
+ML 03.28.22
+
+gini index alludes to impurity
+ bootstrapping  - reuse points that creates left out dataset; new instace with each interation
+ bagging
+cross validation - 
+
+randomforest uses bootstrapping multiple times 
+
+Modelselection.ipynb not published yet 
+ RR lambda affects the error
+
+ Bias -> target accuracy 
+ 
+
